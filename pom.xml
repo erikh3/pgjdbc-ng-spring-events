@@ -68,4 +68,11 @@
 		</plugins>
 	</build>
 
+	<inceptionYear>2020</inceptionYear>
+
+	<scm>
+		<connection>scm:git:https://github.com/erikh3/pgjdbc-ng-spring-events.git</connection>
+		<url>https://github.com/erikh3/pgjdbc-ng-spring-events</url>
+		<developerConnection>scm:git:https://github.com/erikh3/pgjdbc-ng-spring-events.git</developerConnection>
+	</scm>
 </project>

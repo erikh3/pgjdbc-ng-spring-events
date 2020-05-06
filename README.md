@@ -47,3 +47,7 @@ Or run image right from docker hub [drft/pgjdbc-ng-spring-demo](https://hub.dock
 ## Database
 Any (relatively modern) PosgtreSQL database can be used, for
 simplicity this project can be used [github.com/erikh3/postgresql-pgadmin](https://github.com/erikh3/postgresql-pgadmin).
+
+## Diagram
+How clients (applications) and database are connected.
+![component diagram](https://github.com/erikh3/pgjdbc-ng-spring-events/raw/master/images/components.png "Component diagram")

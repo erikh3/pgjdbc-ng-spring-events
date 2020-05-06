@@ -40,3 +40,6 @@ If you have docker installed there is easier way of running
 this application. First build image `docker build -t spring-demo .`
 Then run it with interactive shell, (and access to database)
 `docker run -it --network host spring-demo`.
+
+Or run image right from docker hub [drft/pgjdbc-ng-spring-demo](https://hub.docker.com/repository/docker/drft/pgjdbc-ng-spring-demo)
+`docker run -it --network host drft/pgjdbc-ng-spring-demo:latest`.

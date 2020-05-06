@@ -43,3 +43,7 @@ Then run it with interactive shell, (and access to database)
 
 Or run image right from docker hub [drft/pgjdbc-ng-spring-demo](https://hub.docker.com/repository/docker/drft/pgjdbc-ng-spring-demo)
 `docker run -it --network host drft/pgjdbc-ng-spring-demo:latest`.
+
+## Database
+Any (relatively modern) PosgtreSQL database can be used, for
+simplicity this project can be used [github.com/erikh3/postgresql-pgadmin](https://github.com/erikh3/postgresql-pgadmin).

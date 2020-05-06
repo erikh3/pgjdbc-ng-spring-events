@@ -1,8 +1,8 @@
 # PostgreSQL LISTEN/NOTIFY <-> Spring events
 
 ## Description
-Application demonstrates LISTEN/NOTIFY feature found
-in PostgreSQL database. pgjdbc-ng driver is used with
+Application demonstrates [LISTEN](https://www.postgresql.org/docs/9.1/sql-listen.html)/[NOTIFY](https://www.postgresql.org/docs/9.1/sql-notify.html) feature found
+in [PostgreSQL](https://www.postgresql.org/) database. [pgjdbc-ng](https://impossibl.github.io/pgjdbc-ng/) driver is used with
 addition of Spring asynchronous events. Spring events
 can be used to send messages to database server. Also
 new messages are received from database server and
